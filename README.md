@@ -7,7 +7,7 @@ This people analytics tableau scorecard helps to statistically visualize HR metr
 https://public.tableau.com/profile/nikhil.acharya#!/vizhome/PeopleAnalyticsDashboard/PeopleAnalyticsDashboard
 
 * **HR ANALYTICS DATACAMP**  
-Devloping models to find out why employees are leaving the company, and predicting which employee will leave the company using Gradient Boosting Classifier and Decision Tree Classifier predictive models.
+Developing models to find out why employees are leaving the company, and predicting which employee will leave the company using Gradient Boosting Classifier and Decision Tree Classifier predictive models.
 (https://github.com/NikhilAcharya149/HRAnalytics-datacamp)  
 
 * **HR WORKFORCE DIVERSTY**  

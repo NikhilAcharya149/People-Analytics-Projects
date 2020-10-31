@@ -2,9 +2,9 @@
 
 A collection of People Analytics / HR Analytics projects
 
-* **PEOPLE ANALYTICS DASHBOARD (TABLEAU)**  
+* [**PEOPLE ANALYTICS DASHBOARD (TABLEAU)** ](https://public.tableau.com/profile/nikhil.acharya#!/vizhome/PeopleAnalyticsDashboard/PeopleAnalyticsDashboard)  
 This people analytics tableau scorecard helps to statistically visualize HR metrics such as employee headcount, diversity, average scores (performance, job satisfaction etc.), age distribution, income v/s education for multiple departments and job roles.  
-Link - https://public.tableau.com/profile/nikhil.acharya#!/vizhome/PeopleAnalyticsDashboard/PeopleAnalyticsDashboard
+
 
 * **HR ANALYTICS DATACAMP**  
 Developing models to find out why employees are leaving the company, and predicting which employee will leave the company using Gradient Boosting Classifier and Decision Tree Classifier predictive models.  

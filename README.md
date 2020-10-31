@@ -20,4 +20,4 @@ Link - https://public.tableau.com/profile/nikhil.acharya#!/vizhome/WorforceAnaly
 
 * **HR ANALYTICS: EMPLOYEE ATTRITION**  
 This tableau dashboard helps in visually analyzing Attrition for various features such as Job role, years since last promotion, age etc. across departments and job roles.  
-https://public.tableau.com/profile/nikhil.acharya#!/vizhome/HRanalytics_15784669232200/HRAnalytics  
+Link - https://public.tableau.com/profile/nikhil.acharya#!/vizhome/HRanalytics_15784669232200/HRAnalytics  

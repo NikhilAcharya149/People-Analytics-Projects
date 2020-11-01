@@ -6,7 +6,7 @@ A collection of People Analytics / HR Analytics projects
 This people analytics tableau scorecard helps to statistically visualize HR metrics such as employee headcount, diversity, average scores (performance, job satisfaction etc.), age distribution, income v/s education for multiple departments and job roles.  
 
 
-* [**HR ANALYTICS DATACAMP**](https://github.com/NikhilAcharya149/HRAnalytics-datacamp)  
+* [**HR ANALYTICS (DATACAMP**)](https://github.com/NikhilAcharya149/HRAnalytics-datacamp)  
 Developing models to find out why employees are leaving the company, and predicting which employee will leave the company using Gradient Boosting Classifier and Decision Tree Classifier predictive models.  
 
 * [**HR WORKFORCE DIVERSTY**](https://github.com/NikhilAcharya149/HR-diversity-Scorecard)  

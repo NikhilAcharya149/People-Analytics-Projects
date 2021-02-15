@@ -1,7 +1,7 @@
 # People Analytics Projects
 
 A collection of People Analytics/HR Analytics projects I have worked on:
-Toots used: Python, Tableau, AWS Quick Sight
+\n Tools used: Python, Tableau, AWS Quick Sight
 
 * [**PEOPLE ANALYTICS DASHBOARD (TABLEAU)** ](https://public.tableau.com/profile/nikhil.acharya#!/vizhome/PeopleAnalyticsDashboard/PeopleAnalyticsDashboard)  
 This people analytics tableau scorecard helps to statistically visualize HR metrics such as employee headcount, diversity, average scores (performance, job satisfaction etc.), age distribution, income v/s education for multiple departments and job roles.  

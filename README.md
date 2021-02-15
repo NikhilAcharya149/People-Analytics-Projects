@@ -12,8 +12,8 @@ Developing models to find out why employees are leaving the company, and predict
 * [**HR WORKFORCE DIVERSTY**](https://github.com/NikhilAcharya149/HR-diversity-Scorecard)  
 An **_AWS QuickSight dashboard_** is built to visualize workforce and gender diversity across metrics like job level, average tenure and performance KPIs.  
 
-* [**WORKFORCE ANALYSIS: CITY OF SAN FRANCISCO**](https://public.tableau.com/profile/nikhil.acharya#!/vizhome/WorforceAnalysisCityofSanFrancisco/WFanalysis)  
+* [**WORKFORCE ANALYSIS: CITY OF SAN FRANCISCO (TABLEAU)**](https://public.tableau.com/profile/nikhil.acharya#!/vizhome/WorforceAnalysisCityofSanFrancisco/WFanalysis)  
 This Workforce Analysis dashboard is designed to track employees overtime hours for city of San Francisco across organization group, department, compensation and job family, between 2013 – 2016.    
 
-* [**HR ANALYTICS: EMPLOYEE ATTRITION**](https://public.tableau.com/profile/nikhil.acharya#!/vizhome/HRanalytics_15784669232200/HRAnalytics)  
+* [**HR ANALYTICS: EMPLOYEE ATTRITION (TABLEAU)**](https://public.tableau.com/profile/nikhil.acharya#!/vizhome/HRanalytics_15784669232200/HRAnalytics)  
 This tableau dashboard helps in visually analyzing Attrition for various features such as Job role, years since last promotion, age etc. across departments and job roles.   
